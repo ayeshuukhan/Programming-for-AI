@@ -1,1 +1,1 @@
-This repository contains lab tasks and programming files related to the Programming for AI course. It includes Python implementations of data structures, basic algorithms, and small projects like task management using priority queues and visualization with matplotlib.
+This repository contains lab tasks and practical implementations from the Programming for AI and Machine Learning courses. It includes Python code for core concepts, algorithms, and data structure exercises to build foundational AI/ML programming skills.
